@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VLzEOZ6DH4sacZYPIOyNvi5KdP2rwy7dTHJoASFOi6E=",
+  "Source": "lab6",
+  "BasePath": "_content/lab6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab6\\wwwroot",
+      "Source": "lab6",
+      "ContentRoot": "D:\\GSTU\\3course5semester\\DB\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GSTU\\3course5semester\\DB\\lab6\\lab6\\wwwroot\\menu.html",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GSTU\\3course5semester\\DB\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "menu.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.html"
+    }
+  ]
+}
